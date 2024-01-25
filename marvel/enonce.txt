@@ -3,7 +3,7 @@ Voici votre examen de C++ ZZ2. Lisez tout le sujet avant de commencer : un certa
 A la fin de l'examen, vous devez rendre un programme qui compile.
 
 Pour plus de simplicité, je vous IMPOSE d'utiliser trois fichiers en plus de main.cpp : tests.cpp, marvel.hpp et marvel.cpp. Ne changez pas la casse et n'ajoutez pas de fichiers, cela casserait la chaine de compilation et engendrerait une note nulle.
-
+ 
 Toutes les déclarations seront dans l'entête, les définitions/implémentations seront dans le cpp.
 
 La ligne de compilation est la suivante :
