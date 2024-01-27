@@ -6,3 +6,5 @@ SMS : tous les tests OK et valgrind OK
 MARVEL : tous les tests OK et valgrind OK
 
 GANGSTER : tous les tests OK et valgrind OK
+
+DEVIANT : tous les tests OK et valgrind OK
